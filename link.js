@@ -1,1 +1,3 @@
-const offerLink = "vnd.youtube://youtube.com/redirect?event=comments&redir_token=QUFFLUhqbWZkSEZVbGJBU0tKN3N0RkczWWZHaklkRzkwUXxBQ3Jtc0tsLUtzLWQwOVVkMDlBZjJGNERYUlZEd3BEd3NFSFlJQ19jaXFfRlNQbVZYYTJ5WUJxRzhJLTZHa3JsdTluN0ZiV1EyMDhYTzJTTEFoRkZNay1tYmgxTUY4Qzc1c3NoOWYzam1JTmVlTGx0ekl3TUVpSQ&q=https%3A%2F%2Fwabqnk.palatlaldate.com%2F%3Futm_source%3Dda57dc555e50572d%26s1%3D191792%26s2%3D1849441%26j1%3D1&html_redirect=1 ";
+const offerLink = "vnd.youtube://youtube.com/redirect?event=comments&redir_token=QUFFLUhqbGJOOE5CMnRGSG5EVVNvRXN2WktFOURiRjVLUXxBQ3Jtc0tseGZwVlU1TndnTGhEUURLTmFKUXViXzJWU21UT3F4TUJoYmJ1bkEzZG1fMFJ3Znc0clVSeWtpUC1kOVh3MjRGcGVCanlJbHNjVGZxeFdOMlgwaXo3WGdsSGtEdFp3bnpsQ2NMLWFHVDVMZFVUaFZNQQ&q=https%3A%2F%2Fxblroo.datingllfe.net%2F%3Futm_source%3Dda57dc555e50572d%26s1%3D187579%26s2%3D1848602%26j1%3D1&html_redirect=1 ";
+
+
